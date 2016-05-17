@@ -1,0 +1,36 @@
+body {
+
+    font-family:Swis721 Cn BT, Baskerville Old Face, Arial Narrow;
+	background-color: #F789AA;
+	
+}
+
+
+#contenedor{
+border:30px dotted #827BD1;
+	width:1020px;
+	margin:auto;
+	padding:20px;
+    height: 1250px;
+    
+}
+h1 {
+    color: #3B9C36; 
+    font-size:60px;
+} 
+
+h2 
+{
+    color:yellow; 
+    font-size:40px;
+} 
+
+
+
+p, li {
+
+    color:white; 
+    font-size:25px;
+
+}
+ 
